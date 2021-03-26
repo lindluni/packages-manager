@@ -1,0 +1,5 @@
+.idea/
+.graphqlconfig
+node_modules/
+schema.github.graphql
+data/
